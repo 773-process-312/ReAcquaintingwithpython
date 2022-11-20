@@ -1,0 +1,11 @@
+my_city = "Chicago"
+print(type(my_city))
+
+#Single quotes have exactly
+#the same use as double quotes
+my_city = 'Chicago'
+print(type(my_city))
+
+#Setting the variable type explicitly
+my_city = str("Chicago")
+print(type(my_city))
