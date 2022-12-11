@@ -1,0 +1,9 @@
+Here is the placeholder file for the python pandas section of the online learning.
+Im gonna place useful links here for the people that are following along
+
+there are 2 different sited for dummy data generation : 
+mockaroo: https://www.mockaroo.com/
+Online Data Generation: https://www.onlinedatagenerator.com/
+
+We will use the python libraries that support data analytics 
+Pandas
